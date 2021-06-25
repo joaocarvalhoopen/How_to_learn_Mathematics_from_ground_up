@@ -1,10 +1,10 @@
-# How to learn Mathematics from ground up
+# How to learn Mathematics from the ground up
 A guide to the intrepid adventurer
 
 
 ## Description
 
-Imagine the following scenario, you are a middle age engineer that studied applied mathematics in the context of a certain field of engineering and would like to remember everything again, or better to learn everything again from the ground up! With your knowledge of having done the path once, and experience to know what is a good book, what would be best path to revisit everything again, or to structure the best a path to a friends children or a family member life journey? This will be a journey from the most basics mathematics, all the way to pure mathematics, a real adventure along 40 books :-D <br>
+Imagine the following scenario, you are a middle age engineer that studied applied mathematics in the context of a certain field of engineering and would like to remember everything again, or better to learn everything again from the ground up! With your knowledge of having done the path once, and experience to know what is a good book, what would be the best path to revisit everything again, or to structure the best a path to a friends children or a family member life journey? This will be a journey from the most basics mathematics, all the way to pure mathematics, a real adventure along 40 books :-D <br>
 
 
 ## First years in math
