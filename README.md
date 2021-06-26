@@ -7,6 +7,14 @@ A guide to the intrepid adventurer
 Imagine the following scenario, you are a middle age engineer that studied applied mathematics in the context of a certain field of engineering and would like to remember everything again, or better to learn everything again from the ground up! With your knowledge of having done the path once, and experience to know what is a good book, what would be the best path to revisit everything again, or to structure the best a path to a friends children or a family member life journey? This will be a journey from the most basics mathematics, all the way to pure mathematics, a real adventure along 40 books :-D <br>
 
 
+## Important and free resource
+
+One of the most valuable resources in math from kinder garden to college math. <br>
+
+* Khan Academy <br>
+  https://www.khanacademy.org/
+
+
 ## First years in math
 
 This is a series that focus on giving you a problem solving mentality, with this book series the intent is to teach you how you to solve problems with mathematics as a tool. The solution books have worked out problems, so you can rely on them for self study. <br> 
@@ -167,6 +175,45 @@ Then you will need to learn about Optimization, two good books, the first with c
 30. **Computational Physics: Problem Solving with Python 3rd Ed** <br>
     by Rubin H. Landau, Manuel J Páez, Cristian C. Bordeianu
 
+31. **Applied Computational Physics** <br>
+    by Joseph F. Boudreau, Eric S. Swanson
+
+
+## Problems with answers
+
+32. **Schaum's 3,000 Solved Problems in Calculus** <br>
+    by Elliott Mendelson
+
+33. **Schaum's Outline of Calculus, 6th Ed** <br>
+    by Frank Ayres, Elliott Mendelson
+
+34. **Schaum's Outline of Advanced Calculus, 3rd Ed** <br>
+    by Robert Wrede, Murray Spiegel
+
+35. **Schaum's Outline of Advanced Mathematics for Engineers and Scientists** <br>
+    by Murray Spiegel
+
+36. **Schaum's Outline of Probability and Statistics, 4th Ed** <br>
+    by John Schiller, R. Alu Srinivasan, Murray Spiegel
+
+37. **Schaum's Outline of Discrete Mathematics, 3rd Ed** <br>
+    by Seymour Lipschutz, Marc Lipson
+
+38. **Schaum's Outline of Complex Variables, 2th Ed** <br>
+    by Murray Spiegel, Seymour Lipschutz, John Schiller, Dennis Spellman
+
+39. **Schaum's Outline of Differential Equations, 4th Ed** <br>
+    by Richard Bronson, Gabriel B. Costa
+
+40. **Schaum's Outline of Partial Differential Equations** <br>
+    by Paul DuChateau, D. Zachmann
+
+41. **Vector Analysis, 2nd Ed** <br>
+    by Murray Spiegel, Seymour Lipschutz, Dennis Spellman
+
+42. **Schaums Outline of Tensor Calculus** <br>
+    by David Kay
+
 
 # To go further into Pure Mathematics
 
@@ -178,62 +225,62 @@ This book section specific recommendation come from the wonderful video about le
 
 ## Real Analysis
 
-31. **Understanding Analysis** <br>
+43. **Understanding Analysis** <br>
     by Stephen Abbott.  
 
 
 ## Linear Algebra
 
-32. **Linear Algebra Done Right** <br>
+44. **Linear Algebra Done Right** <br>
     by Sheldon Axler
 
 
 And for the problems. <br>
 
 
-33. **Linear Algebra** <br>
+45. **Linear Algebra** <br>
     by Insel, Freidberg, and Spence
 
 
 ## Topology
 
-34. **Topology through Inquiry** <br>
+46. **Topology through Inquiry** <br>
     by Su and Starbird
 
 
 ## Differential Equations
 
-35. **Differential Equations with Boundary Value Problems** <br>
+47. **Differential Equations with Boundary Value Problems** <br>
     by Zill and Cullen
 
 
 ## Complex Analysis
 
-36. **A Friendly Approach to Complex Analysis** <br>
+48. **A Friendly Approach to Complex Analysis** <br>
     by Sara Maad and Amol Sasane
 
-37. **Visual Complex Analysis** <br>
+49. **Visual Complex Analysis** <br>
     by Tristan Needham
 
 
 ## Abstract Algebra
 
-38. **Contemporary Abstract Algebra** <br>
+50. **Contemporary Abstract Algebra** <br>
     by Gallian
 
 
 ## Differential Geometry
 
-39. **A Geometric Approach to Differential Forms** <br>
+51. **A Geometric Approach to Differential Forms** <br>
     by David Bachman
 
-40. **Introduction to Manifolds** <br>
+52. **Introduction to Manifolds** <br>
     by Loring Tu
 
 
 # The great men and women behind mathematics
 
-41. **Men of Mathematics** <br>
+53. **Men of Mathematics** <br>
     by E.T. Bell
 
 
