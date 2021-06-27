@@ -15,6 +15,15 @@ One of the most valuable resources in math from kinder garden to college math. <
   https://www.khanacademy.org/
 
 
+## Motivational books on Mathematics
+
+1. **The Math Book - Big Ideas Simply Explained** <br>
+   by DK
+
+2. **The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth** <br>
+   by Paul Hoffman
+
+
 ## First years in math
 
 This is a series that focus on giving you a problem solving mentality, with this book series the intent is to teach you how you to solve problems with mathematics as a tool. The solution books have worked out problems, so you can rely on them for self study. <br> 
@@ -42,11 +51,11 @@ This is a series that focus on giving you a problem solving mentality, with this
 
 ## Intermediate years in math
 
-6. **The Art of Problem Solving: Intermediate Algebra** <br>
+1. **The Art of Problem Solving: Intermediate Algebra** <br>
    by Richard Rusczyk and Mathew Crawford <br>
    Text: 720 pages. Solutions: 336 pages.
 
-7. **The Art of Problem Solving: Intermediate Counting & Probability** <br>
+2. **The Art of Problem Solving: Intermediate Counting & Probability** <br>
    by David Patrick <br>
    Text: 400 pages. Solutions: 208 pages.
 
@@ -55,16 +64,16 @@ This is a series that focus on giving you a problem solving mentality, with this
 
 At this point you have three good options see what adjusts better to you. <br>
 
-8. **The Art of Problem Solving: Precalculus, 2nd Ed** <br>
+1. **The Art of Problem Solving: Precalculus, 2nd Ed** <br>
    by Richard Rusczyk <br>
    Text: 528 pages. Solutions: 272 pages.
 
-9. **Precalculus: Mathematics for Calculus 7th ed** <br>
+2. **Precalculus: Mathematics for Calculus 7th ed** <br>
    by James Stewart, Lothar Redlin, Saleem Watson
 
-10. **Precalculus** <br>
-    by Jay Abramson <br>
-    [https://openstax.org/details/books/precalculus](https://openstax.org/details/books/precalculus) 
+3. **Precalculus** <br>
+   by Jay Abramson <br>
+   [https://openstax.org/details/books/precalculus](https://openstax.org/details/books/precalculus) 
 
 
 # University or college mathematics
@@ -74,16 +83,16 @@ At this point you have three good options see what adjusts better to you. <br>
 
 You will learn Linear Algebra with examples in code (Python and Matlab) without calculus. <br>
 
-11. **Linear Algebra: Theory, Intuition, Code** <br>
-    by Mike X Cohen
+1. **Linear Algebra: Theory, Intuition, Code** <br>
+   by Mike X Cohen
 
 
 ## Calculus and friends
 
 This is a book to motivate you to go further in the most beautiful way!<br>
 
-12. **Calculus Made Easy** <br>
-    by Silvanus P. Thompson, Martin Gardner
+1. **Calculus Made Easy** <br>
+   by Silvanus P. Thompson, Martin Gardner
 
 Then to my knowledge there are 3 similar good paths that you can follow, but with increasing depth in mathematics and Calculus. <br>
 
@@ -91,128 +100,137 @@ Then to my knowledge there are 3 similar good paths that you can follow, but wit
 **First path** <br>
 
 
-13. **Engineering Mathematics, 5th Ed** <br>
-    by Prof Anthony Croft, Dr Robert Davison, et al.
+2. **Engineering Mathematics, 5th Ed** <br>
+   by Prof Anthony Croft, Dr Robert Davison, et al.
 
 
 **Second path** <br>
 
 
-14. **Modern Engineering Mathematics, 6th Ed** <br>
-    by Glyn James, Phil Dyke
+3. **Modern Engineering Mathematics, 6th Ed** <br>
+   by Glyn James, Phil Dyke
 
-15. **Advanced Modern Engineering Mathematics, 5th Ed** <br>
-    by Glyn James, David Burley, Dick Clements, et al.
+4. **Advanced Modern Engineering Mathematics, 5th Ed** <br>
+   by Glyn James, David Burley, Dick Clements, et al.
 
 
 **Third path** <br>
 
 
-16. **Mathematical Methods for Physics and Engineering: A Comprehensive Guide 3rd Ed** <br>
-    by K. F. Riley
+5. **Mathematical Methods for Physics and Engineering: A Comprehensive Guide 3rd Ed** <br>
+   by K. F. Riley
 
-17. **Student Solution Manual 1st Ed for Mathematical Methods for Physics and Engineering 3th Ed** <br>
-    by K. F. Riley
+6. **Student Solution Manual 1st Ed for Mathematical Methods for Physics and Engineering 3th Ed** <br>
+   by K. F. Riley
 
 
 ## Fourier Series and Transforms
 
-18. **Fourier Analysis: An Introduction** <br>
-    by Elias M. Stein and Rami Shakarchi
+1. **Fourier Analysis: An Introduction** <br>
+   by Elias M. Stein and Rami Shakarchi
 
-19. **Fast Fourier Transform and Its Applications 2th Ed** <br>
-    by E. Brigham
+2. **Fast Fourier Transform and Its Applications 2th Ed** <br>
+   by E. Brigham
 
 
 ## Probability and Statistics 
 
 Then you need to learn about Probability and Statistics the following are two nice books with a companion book with the solutions. <br>
 
-20. **Probability: For the Enthusiastic Beginner** <br>
-    by David J. Morin
+1. **Probability: For the Enthusiastic Beginner** <br>
+   by David J. Morin
 
-21. **Introduction to Probability, Statistics, and Random Processes** <br>
+2. **Introduction to Probability, Statistics, and Random Processes** <br>
+   by Hossein Pishro-Nik <br>
+   [http://www.probabilitycourse.com/preface.php](http://www.probabilitycourse.com/preface.php)
+
+3.  **Student's Solutions Guide for Introduction to Probability, Statistics, and Random Processes** <br>
     by Hossein Pishro-Nik <br>
     [http://www.probabilitycourse.com/preface.php](http://www.probabilitycourse.com/preface.php)
 
-22.  **Student's Solutions Guide for Introduction to Probability, Statistics, and Random Processes** <br>
-     by Hossein Pishro-Nik <br>
-     [http://www.probabilitycourse.com/preface.php](http://www.probabilitycourse.com/preface.php)
-
-23. **All of Statistics: A Concise Course in Statistical Inference** <br>
-    by Larry Wasserman
+4. **All of Statistics: A Concise Course in Statistical Inference** <br>
+   by Larry Wasserman
 
 
 ##  Optimization
 
 Then you will need to learn about Optimization, two good books, the first with code in Julia. <br>
 
-24. **Algorithms for Optimization** <br>
-    by Mykel J. Kochenderfer, Tim A. Wheeler
+1. **Algorithms for Optimization** <br>
+   by Mykel J. Kochenderfer, Tim A. Wheeler
 
-25. **Convex Optimization** <br>
-    by Boyd, Vandenberghe <br>
-    [https://web.stanford.edu/~boyd/cvxbook/](https://web.stanford.edu/~boyd/cvxbook/)
+2. **Convex Optimization** <br>
+   by Boyd, Vandenberghe <br>
+   [https://web.stanford.edu/~boyd/cvxbook/](https://web.stanford.edu/~boyd/cvxbook/)
 
 
 ## Discrete Mathematics 
 
-26. **Discrete Mathematics and Its Applications 8th Ed** <br>
-    by Kenneth Rosen
+1. **Discrete Mathematics and Its Applications 8th Ed** <br>
+   by Kenneth Rosen
 
 
 ## Numerical Analysis and Computational Mathematics
 
-27. **Numerical Methods for Engineers 8th Ed** <br>
-    by Steven Chapra, Raymond Canale
+1. **Numerical Methods for Engineers 8th Ed** <br>
+   by Steven Chapra, Raymond Canale
 
-28. **Numerical Recipes 3rd Edition: The Art of Scientific Computing** <br>
-    by William H. Press
+2. **Numerical Recipes 3rd Edition: The Art of Scientific Computing** <br>
+   by William H. Press
 
-29. **Numerical Methods in Physics with Python** <br>
-    by Alex Gezerlis
+3. **Numerical Methods in Physics with Python** <br>
+   by Alex Gezerlis
 
-30. **Computational Physics: Problem Solving with Python 3rd Ed** <br>
-    by Rubin H. Landau, Manuel J Páez, Cristian C. Bordeianu
+4. **Computational Physics: Problem Solving with Python 3rd Ed** <br>
+   by Rubin H. Landau, Manuel J Páez, Cristian C. Bordeianu
 
-31. **Applied Computational Physics** <br>
-    by Joseph F. Boudreau, Eric S. Swanson
+5. **Applied Computational Physics** <br>
+   by Joseph F. Boudreau, Eric S. Swanson
 
 
 ## Problems with answers
 
-32. **Schaum's 3,000 Solved Problems in Calculus** <br>
-    by Elliott Mendelson
+1. **Schaum's 3,000 Solved Problems in Calculus** <br>
+   by Elliott Mendelson
 
-33. **Schaum's Outline of Calculus, 6th Ed** <br>
-    by Frank Ayres, Elliott Mendelson
+2. **Schaum's Outline of Calculus, 6th Ed** <br>
+   by Frank Ayres, Elliott Mendelson
 
-34. **Schaum's Outline of Advanced Calculus, 3rd Ed** <br>
-    by Robert Wrede, Murray Spiegel
+3. **Schaum's Outline of Advanced Calculus, 3rd Ed** <br>
+   by Robert Wrede, Murray Spiegel
 
-35. **Schaum's Outline of Advanced Mathematics for Engineers and Scientists** <br>
-    by Murray Spiegel
+4. **Schaum's Outline of Advanced Mathematics for Engineers and Scientists** <br>
+   by Murray Spiegel
 
-36. **Schaum's Outline of Probability and Statistics, 4th Ed** <br>
-    by John Schiller, R. Alu Srinivasan, Murray Spiegel
+5. **Schaum's Outline of Probability and Statistics, 4th Ed** <br>
+   by John Schiller, R. Alu Srinivasan, Murray Spiegel
 
-37. **Schaum's Outline of Discrete Mathematics, 3rd Ed** <br>
-    by Seymour Lipschutz, Marc Lipson
+6. **Schaum's Outline of Discrete Mathematics, 3rd Ed** <br>
+   by Seymour Lipschutz, Marc Lipson
 
-38. **Schaum's Outline of Complex Variables, 2th Ed** <br>
-    by Murray Spiegel, Seymour Lipschutz, John Schiller, Dennis Spellman
+7. **Schaum's Outline of Complex Variables, 2th Ed** <br>
+   by Murray Spiegel, Seymour Lipschutz, John Schiller, Dennis Spellman
 
-39. **Schaum's Outline of Differential Equations, 4th Ed** <br>
-    by Richard Bronson, Gabriel B. Costa
+8. **Schaum's Outline of Differential Equations, 4th Ed** <br>
+   by Richard Bronson, Gabriel B. Costa
 
-40. **Schaum's Outline of Partial Differential Equations** <br>
-    by Paul DuChateau, D. Zachmann
+8. **Schaum's Outline of Partial Differential Equations** <br>
+   by Paul DuChateau, D. Zachmann
 
-41. **Vector Analysis, 2nd Ed** <br>
+10. **Vector Analysis, 2nd Ed** <br>
     by Murray Spiegel, Seymour Lipschutz, Dennis Spellman
 
-42. **Schaums Outline of Tensor Calculus** <br>
+11. **Schaums Outline of Tensor Calculus** <br>
     by David Kay
+
+
+## Very good synthesis of all around Mathematics
+
+1. **The Princeton Companion to Mathematics** <br>
+   by Timothy Gowers, June Barrow-Green, Imre Leader
+
+2. **The Princeton Companion to Applied Mathematics** <br>
+   by Nicholas J. Higham, Mark R. Dennis, Paul Glendinning, Paul A. Martin, Fadil Santosa, Jared Tanner
 
 
 # To go further into Pure Mathematics
@@ -225,63 +243,69 @@ This book section specific recommendation come from the wonderful video about le
 
 ## Real Analysis
 
-43. **Understanding Analysis** <br>
-    by Stephen Abbott.  
+1. **Calculus, 4th Ed** <br>
+   by Michael Spivak, Michael Spivak
+
+2. **Combined Answer Book For Calculus Third and Fourth Editions, 1th Ed** <br>
+   by Michael Spivak
+
+3. **Understanding Analysis** <br>
+   by Stephen Abbott.  
 
 
 ## Linear Algebra
 
-44. **Linear Algebra Done Right** <br>
-    by Sheldon Axler
+2. **Linear Algebra Done Right** <br>
+   by Sheldon Axler
 
 
 And for the problems. <br>
 
 
-45. **Linear Algebra** <br>
-    by Insel, Freidberg, and Spence
+3. **Linear Algebra** <br>
+   by Insel, Freidberg, and Spence
 
 
 ## Topology
 
-46. **Topology through Inquiry** <br>
-    by Su and Starbird
+1. **Topology through Inquiry** <br>
+   by Su and Starbird
 
 
 ## Differential Equations
 
-47. **Differential Equations with Boundary Value Problems** <br>
-    by Zill and Cullen
+1. **Differential Equations with Boundary Value Problems** <br>
+   by Zill and Cullen
 
 
 ## Complex Analysis
 
-48. **A Friendly Approach to Complex Analysis** <br>
-    by Sara Maad and Amol Sasane
+1. **A Friendly Approach to Complex Analysis** <br>
+   by Sara Maad and Amol Sasane
 
-49. **Visual Complex Analysis** <br>
-    by Tristan Needham
+2. **Visual Complex Analysis** <br>
+   by Tristan Needham
 
 
 ## Abstract Algebra
 
-50. **Contemporary Abstract Algebra** <br>
-    by Gallian
+1. **Contemporary Abstract Algebra** <br>
+   by Gallian
 
 
 ## Differential Geometry
 
-51. **A Geometric Approach to Differential Forms** <br>
-    by David Bachman
+1. **A Geometric Approach to Differential Forms** <br>
+   by David Bachman
 
-52. **Introduction to Manifolds** <br>
-    by Loring Tu
+2. **Introduction to Manifolds** <br>
+   by Loring Tu
 
 
 # The great men and women behind mathematics
 
-53. **Men of Mathematics** <br>
-    by E.T. Bell
+1. **Men of Mathematics** <br>
+   by E.T. Bell
 
 
 # Have fun!
