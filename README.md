@@ -17,10 +17,13 @@ One of the most valuable resources in math from kinder garden to college math. <
 
 ## Motivational books on Mathematics
 
-1. **The Math Book - Big Ideas Simply Explained** <br>
+1. **Video - The Map of Mathematics** <br>
+   [https://www.youtube.com/watch?v=OmJ-4B-mS-Y](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+
+2. **The Math Book - Big Ideas Simply Explained** <br>
    by DK
 
-2. **The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth** <br>
+3. **The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth** <br>
    by Paul Hoffman
 
 
