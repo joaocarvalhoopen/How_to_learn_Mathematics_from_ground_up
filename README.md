@@ -169,8 +169,8 @@ Then you will need to learn about Optimization, two good books, the first with c
 
 ## Discrete Mathematics 
 
-1. **Discrete Mathematics and Its Applications 8th Ed** <br>
-   by Kenneth Rosen
+1. **Discrete Mathematics with Applications 5th Ed** <br>
+   by Susanna S. Epp
 
 
 ## Numerical Analysis and Computational Mathematics
