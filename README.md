@@ -26,6 +26,9 @@ One of the most valuable resources in math from kinder garden to college math. <
 3. **The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth** <br>
    by Paul Hoffman
 
+4. **Logicomix: An epic search for truth** <br>
+   by Apostolos Doxiadis, Christos Papadimitriou
+
 
 ## First years in math
 
