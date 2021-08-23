@@ -163,7 +163,9 @@ Then you need to learn about Probability and Statistics the following are two ni
 Then you will need to learn about Optimization, two good books, the first with code in Julia. <br>
 
 1. **Algorithms for Optimization** <br>
-   by Mykel J. Kochenderfer, Tim A. Wheeler
+   by Mykel J. Kochenderfer, Tim A. Wheeler <br>
+   Note: See the book PDF site link on the authors page. <br>
+   [https://mykel.kochenderfer.com/textbooks/](https://mykel.kochenderfer.com/textbooks/)
 
 2. **Convex Optimization** <br>
    by Boyd, Vandenberghe <br>
