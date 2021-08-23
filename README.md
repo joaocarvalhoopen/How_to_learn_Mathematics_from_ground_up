@@ -202,6 +202,28 @@ Then you will need to learn about Optimization, two good books, the first with c
    [https://library.oapen.org/discover?rpp=10&etal=0&query=Langtangen%2C+Hans+Petter&scope=&group_by=none&page=1](https://library.oapen.org/discover?rpp=10&etal=0&query=Langtangen%2C+Hans+Petter&scope=&group_by=none&page=1)
 
 
+## Information Theory
+
+1. **A Mind at Play: How Claude Shannon Invented the Information Age** <br>
+   by Jimmy Soni, Rob Goodman <br>
+
+2. **Information Theory, Inference and Learning Algorithms** <br>
+   by David J. C. MacKay <br>
+   Note: In the author site you have de **book** and the **video lectures**. <br>
+   [http://www.inference.org.uk/mackay/itila/](http://www.inference.org.uk/mackay/itila/)
+
+
+##  Error Correction Codes
+
+1. **Error-Correction Coding and Decoding: Bounds, Codes, Decoders, Analysis and Applications** <br>
+   by Martin Tomlinson, Cen Jung Tjhai, Marcel A. Ambroze, Mohammed Ahmed, Mubarak Jibril <br>
+   Note: Book on open access. <br>
+   [https://www.springer.com/gp/book/9783319511023](https://www.springer.com/gp/book/9783319511023)
+
+2. **Error Correction Coding: Mathematical Methods and Algorithms 2nd Ed** <br>
+   by Todd K. Moon
+
+
 ## Problems with answers
 
 1. **Schaum's 3,000 Solved Problems in Calculus** <br>
